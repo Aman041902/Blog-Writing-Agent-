@@ -16,11 +16,3 @@ The agent follows a multi-step pipeline:
 - **Tavily** — real-time web research
 - **Streamlit** — frontend interface
 
-## Setup
-
-```bash
-git clone https://github.com/Aman041902/blog-writing-agent
-cd blog-writing-agent
-```
-
-Add your API keys to a `.env` file:
